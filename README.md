@@ -1,10 +1,12 @@
 # README: Titanic Survival Prediction Model
 
-## Submitted By: Jay Chopra
+## Submitted By: Jay Chopra 
 
 ## August Batch 
 
-## Intern as:x Data Science
+## Intern as: Data Science
+
+## Intern at: Codsoft 
 
 ## Aim
 
@@ -52,7 +54,7 @@ The following important libraries were used for this project:
 2. The predicted results were printed using `log.predict(X_test)`.
 3. The actual target values in the test set were printed using `Y_test`.
 
-##Accuracy 
+## Accuracy 
 
  1. The accuracy score is checked with the help of `accuracy_score(Y_test, prediction)`.
  2. The model turns out to be 100% accurate.
